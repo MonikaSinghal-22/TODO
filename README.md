@@ -1,6 +1,6 @@
 # TODO Application 
-# Framework - Laravel 
-# Database - MySql
+ Framework - Laravel 
+ Database - MySql
 
 #Functionalities Included
 1.Login,Register
