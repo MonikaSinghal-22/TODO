@@ -23,4 +23,3 @@
 4.Migrate database [php artisan migrate]
 5.Serve [php artisan serve]
 
->>>>>>> 6c3ac941d40c6ad8617e6acdbb1a21ce80836d14
